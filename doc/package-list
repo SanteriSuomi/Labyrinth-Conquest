@@ -1,0 +1,11 @@
+com.labyrinthconquest.game
+com.labyrinthconquest.game.actors
+com.labyrinthconquest.game.collisions
+com.labyrinthconquest.game.data
+com.labyrinthconquest.game.desktop
+com.labyrinthconquest.game.gameobjects
+com.labyrinthconquest.game.levels
+com.labyrinthconquest.game.pathfinding
+com.labyrinthconquest.game.screens
+com.labyrinthconquest.game.ui
+com.labyrinthconquest.game.utils

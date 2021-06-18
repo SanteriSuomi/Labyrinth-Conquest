@@ -1,0 +1,111 @@
+
+LabyrinthConquest.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background
+  rotate: false
+  xy: 157, 96
+  size: 25, 25
+  split: 8, 8, 8, 8
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1, 71
+  size: 75, 50
+  split: 19, 19, 19, 19
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+button-pressed
+  rotate: false
+  xy: 1, 19
+  size: 75, 50
+  split: 19, 19, 19, 19
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+cursor
+  rotate: false
+  xy: 184, 96
+  size: 25, 25
+  split: 0, 0, 2, 2
+  pad: 0, 0, 0, 0
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+font
+  rotate: false
+  xy: 1, 459
+  size: 506, 46
+  orig: 506, 46
+  offset: 0, 0
+  index: -1
+font-big
+  rotate: false
+  xy: 1, 315
+  size: 506, 142
+  orig: 506, 142
+  offset: 0, 0
+  index: -1
+font-big-black
+  rotate: false
+  xy: 1, 123
+  size: 506, 142
+  orig: 506, 142
+  offset: 0, 0
+  index: -1
+font-black
+  rotate: false
+  xy: 1, 267
+  size: 506, 46
+  orig: 506, 46
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 78, 71
+  size: 50, 50
+  split: 19, 19, 19, 19
+  pad: 13, 13, 13, 13
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+scroll
+  rotate: false
+  xy: 130, 71
+  size: 25, 50
+  split: 9, 9, 9, 9
+  pad: 12, 12, 7, 7
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+scroll-knob
+  rotate: false
+  xy: 130, 44
+  size: 25, 25
+  split: 9, 9, 9, 9
+  pad: 12, 12, 12, 12
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+select
+  rotate: false
+  xy: 157, 69
+  size: 25, 25
+  split: 0, 0, 0, 0
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 78, 44
+  size: 50, 25
+  split: 9, 9, 7, 7
+  pad: 4, 4, 12, 12
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
